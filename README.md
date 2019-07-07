@@ -1,7 +1,7 @@
 # CTTV-Sync-Instructions
 In these instructions we will cover how to sync your discord role with your twitch sub level for the CTTV twitch stream
 
-## Steps
+## Steps for ALL subs 
 1. Follow our twitch bot by going to the [**BITCORNhub channel**](https://www.twitch.tv/bitcornhub) and clicking on the heart to follow. This is so the bot can send you whispers.
 
 ![Follow Button](https://bitcornsyncstorage.blob.core.windows.net/sync/follow.png)
