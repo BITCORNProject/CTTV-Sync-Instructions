@@ -13,7 +13,7 @@ In these instructions we will cover how to sync your discord role with your twit
 
 If you have any issues with this please contact d4rkcide#1505 on discord
 
-### Tier 1 subs
+## Tier 1 subs
 1. Do all the steps above.
 2. Sync your Twitch and Discord accounts, by going to Discord > User Settings > Connections > Twitch.
 
