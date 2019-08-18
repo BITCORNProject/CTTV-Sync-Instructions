@@ -12,7 +12,7 @@ In these instructions we will cover how to get a Bitcorn Address
     3. Discord (Optional if not a T3 sub, but recommended)
     4. BITCORN (if you don't already have a bitcorn address)
     
-**For T3 Subs**
+**For T3 Subs**  
 3. Wait (up to 15 minutes) for everything to sync up for your **Tier 3 Astronaut** sub role to appear in discord, you're done!
 
 If you have any issues with this please contact d4rkcide#1505 on discord
